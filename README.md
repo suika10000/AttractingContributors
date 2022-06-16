@@ -40,3 +40,4 @@ from: (https://www.pinterest.com/pin/820007044642097824/)
 - Barcelona
 - Tottenham
 - FC東京
+- Manchester City
