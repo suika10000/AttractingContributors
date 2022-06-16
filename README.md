@@ -36,3 +36,4 @@ I'm looking forward to your effort.
 8. MX450
 9. RTX 2070
 10. RX 6400
+11. AMD Radeon Graphics
