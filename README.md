@@ -18,13 +18,13 @@ To complete the assignment, please do the following:
 # My Project (McDonald's menu)
 Please teach me your favorite McDonald's menu
 
-# List of Hobby
+# List of Menu
 1.ポテト(S)  
 2.チキン マクナゲット(15 ピース)  
 3.ハッシュポテト
-4.
-5.
-6.
+4.マックポーク  
+5.ハンバーガー  
+6.グランドビックマック  
 7.
 8.
 9.
