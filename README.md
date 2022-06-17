@@ -37,3 +37,4 @@ I'm looking forward to your effort.
 9. RTX 2070
 10. RX 6400
 11. AMD Radeon Graphics
+12. RTX 3090ti
